@@ -1,4 +1,4 @@
-Thank you for taking the time to contribute to our project. Please take a moment to read the following guidelines before contributing:
+Please take a moment to read the following guidelines before contributing:
 
 > IMPORTANT **Note**
 >
@@ -12,16 +12,10 @@ Thank you for taking the time to contribute to our project. Please take a moment
 
 ## How to Contribute
 
-- Look at the existing [**Issues**] or [**create a new issue**]!
-- [**Fork the Repo**]. Then, create a branch for any issue that you are working on. Finally, commit your work.
-- Create a **[Pull Request]** (_PR_), which will be promptly reviewed and given suggestions for improvements by the community.
+- Look at the existing Issues or create a new issue!
+- Fork the Repo. Then, create a branch for any issue that you are working on. Finally, commit your work.
+- Create a Pull Request, which will be promptly reviewed and given suggestions for improvements by the community.
 - Add screenshots or screen captures to your Pull Request to help us understand the effects of the changes proposed in your PR.
-
-**Important!**
-
-- Do not make duplicate entries (always confirm that an entry does not exist by searching through the JSON file.
-- Ensure that your entries are error-free by double-checking before staging your changes.
-- Your entries should follow the above structure.
 
 ## Making pull requests
 
@@ -33,8 +27,7 @@ Thank you for taking the time to contribute to our project. Please take a moment
 3. Each pull request should contain a single logical change or related set of changes that make sense to submit together. If a pull request becomes too large or contains too many unrelated changes, it becomes too difficult to review. In such cases, the reviewer has the right to close your pull request and ask that you submit a separate pull request for each logical set of changes that belong together.
 
 4. Link the issue you have resolved in the Pull Request Template (e.g Closes/Fixes #99).
-5. Use [Conventional commit messages](https://www.conventionalcommits.org/en/v1.0.0/) for your changes.
-6. Do not re-open a pull request that a reviewer has closed.
+5. Do not re-open a pull request that a reviewer has closed.
    - Make sure to tick the "Allow edits from maintainers" box. This allows us to directly make minor edits / refactors and saves a lot of time.
 
 ## Remarks
